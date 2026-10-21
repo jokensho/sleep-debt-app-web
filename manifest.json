@@ -1,11 +1,11 @@
 {
-    "name": "Lunaris",
-    "short_name": "Lunaris",
+    "name": "Counting Moons",
+    "short_name": "Counting Moons",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#080D1F",
     "theme_color": "#080D1F",
-    "description": "Lunaris: an on-device sleep-debt tracker.",
+    "description": "Counting Moons: an on-device sleep-debt tracker.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
